@@ -1,0 +1,109 @@
+
+html{
+    overflow-x: hidden;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(37, 136, 235);
+}
+
+#specialHeading{
+    color: #ffffff;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-align: center;
+    font-size: 4em;
+    margin: 0;
+    padding: 6.3%;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#navLinks{
+    background-color: black;
+    padding: 1.2%;
+    margin: 0;
+}
+
+.link{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 1.3em;
+    display: inline;
+    padding-inline: 1.3%;
+}
+
+.h2-1{
+    margin-left: 0.19em;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 3em;
+}
+
+.pipe-span-1{
+    color: rgb(185, 0, 0);
+}
+
+.wrapper{
+    position: relative;
+    overflow: hidden;
+    padding-top: 0.7em;
+    margin-right: 0.3em;
+}
+
+.videos{
+    margin-inline: 1.18em;
+    margin-left: 0.6em;
+    width: 21em;
+    height: 11.7em;
+    padding-bottom: 2em;
+}
+
+#founder-name{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 2.1em;
+    padding-left: 1%;
+}
+
+#imp-span{
+    margin-left: 0.5em;
+}
+
+.social-media-links{
+    /* display: inline; */
+    margin-inline: 0.2em;
+    margin-top: -1.5em;
+    margin-bottom: 1em;
+}
+
+
+.social-media-links:hover{
+    margin-inline: 1em;
+    transform: scale(1.7, 1.7);
+    transition: 400ms;
+}
+
+#about{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 1.8em;
+    text-align: justify;
+    padding-left: 1%;
+}
+
+.videos:hover{
+    transform: scale(1.1, 1.1);
+    transition: 400ms;
+}
+
+#aman-bhaiya{
+    margin-left: 1.1%;
+    width: auto;
+    height: 18.55em;
+    margin-right: 1.2%; 
+}
+
+a:hover{
+    color: rgb(0, 255, 0);
+    transition: 350ms;
+}
